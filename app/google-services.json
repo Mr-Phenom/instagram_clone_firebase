@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "733701192857",
+    "project_id": "instagram-clone-bacaa",
+    "storage_bucket": "instagram-clone-bacaa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733701192857:android:71179663ff67e9d4200c08",
+        "android_client_info": {
+          "package_name": "com.company.instagramclone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAswnUDX127KaAEkutzQkEph5OkGrCFrig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
