@@ -91,6 +91,8 @@ Comments and profile view:
 ![Media_240127_211725](https://github.com/Mr-Phenom/instagram_clone_firebase/assets/140901874/ad72918f-3c84-4384-81e1-dc6caddce592)
 
 Other screenshots:
+![firebase_ss](https://github.com/Mr-Phenom/TvMv-Info/assets/140901874/bcbe820a-fc31-4f50-a434-c359b7b45893)
+
 ![Screenshot_2024-01-27-21-06-59-04_0c7fd1da47cfe2cc5960dfe28b55eb85](https://github.com/Mr-Phenom/instagram_clone_firebase/assets/140901874/139155ca-51a1-4418-b32d-0b7b46433d81)
 
 ![Screenshot_2024-01-27-21-07-02-27_0c7fd1da47cfe2cc5960dfe28b55eb85](https://github.com/Mr-Phenom/instagram_clone_firebase/assets/140901874/74d795d7-f165-458a-8369-edab85852a62)
